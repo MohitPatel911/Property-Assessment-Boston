@@ -11,3 +11,26 @@ RShiny , Tableau
 
 •	Interpreted analyzed data to recognize key metrics and transformed data into meaningful, actionable information
 
+-----------------------------------------------------
+
+Below You can view the entire project presentation 
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/Intoduction.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/data_over_view.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/Storytellying.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/business_question.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/future%20scope.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/co-relation.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/Avg_land_value.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/heat_Map.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/final_dashboard.PNG)
+
+![alt tag](https://github.com/MohitPatel911/Property-Assessment-Boston/blob/master/Final%20PPT/conclusion.PNG)
