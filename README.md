@@ -1,4 +1,4 @@
-# Bosyon Property Assessment Data Analysis
+# Boston Property Assessment Data Analysis
 RShiny , Tableau
 
 •	Delivered complex data information and insights using tableau via creating visual dashboards and graphs 
